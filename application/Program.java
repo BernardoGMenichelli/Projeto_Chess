@@ -1,5 +1,9 @@
 package application;
-
+/**
+ * Projeto de Xadrez em Java.
+ * Autor: Bernardo
+ * Data: Agosto de 2025
+ */
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.List;
